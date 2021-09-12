@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\HelloWorld\Exercise _4\bin\Debug\Exercise__4.exe
+C:\Users\Admin\RiderProjects\HelloWorld\Exercise _4\bin\Debug\Exercise__4.pdb
+C:\Users\Admin\RiderProjects\HelloWorld\Exercise _4\obj\Debug\Exercise _4.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\HelloWorld\Exercise _4\obj\Debug\Exercise _4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\HelloWorld\Exercise _4\obj\Debug\Exercise__4.exe
+C:\Users\Admin\RiderProjects\HelloWorld\Exercise _4\obj\Debug\Exercise__4.pdb
