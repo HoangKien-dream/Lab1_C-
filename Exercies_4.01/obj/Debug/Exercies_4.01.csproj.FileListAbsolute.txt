@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\HelloWorld\Exercies_4.01\bin\Debug\Exercies_4._1.exe
+C:\Users\Admin\RiderProjects\HelloWorld\Exercies_4.01\bin\Debug\Exercies_4._1.pdb
+C:\Users\Admin\RiderProjects\HelloWorld\Exercies_4.01\obj\Debug\Exercies_4.01.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\HelloWorld\Exercies_4.01\obj\Debug\Exercies_4.01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\HelloWorld\Exercies_4.01\obj\Debug\Exercies_4._1.exe
+C:\Users\Admin\RiderProjects\HelloWorld\Exercies_4.01\obj\Debug\Exercies_4._1.pdb

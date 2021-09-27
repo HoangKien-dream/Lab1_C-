@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\HelloWorld\Lab5_05\bin\Debug\Lab5_05.exe
+C:\Users\Admin\RiderProjects\HelloWorld\Lab5_05\bin\Debug\Lab5_05.pdb
+C:\Users\Admin\RiderProjects\HelloWorld\Lab5_05\obj\Debug\Lab5_05.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\HelloWorld\Lab5_05\obj\Debug\Lab5_05.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\HelloWorld\Lab5_05\obj\Debug\Lab5_05.exe
+C:\Users\Admin\RiderProjects\HelloWorld\Lab5_05\obj\Debug\Lab5_05.pdb
